@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c08632ce","path":"/blogs/javase/02-JavaSE OOPjichuyuchangyongAPI/02.html","title":"JavaSE OOP基础与常用API","lang":"en-US","frontmatter":{"title":"JavaSE OOP基础与常用API","date":"2023/12/14","tags":["javaSE"],"categories":["javaSE"]},"headers":[],"git":{},"filePathRelative":"blogs/javase/02-JavaSE OOP基础与常用API/02.md"}');export{a as data};
